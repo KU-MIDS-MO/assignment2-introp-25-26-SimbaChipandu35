@@ -13,13 +13,7 @@ You should be able to solve each problem using only what has been taught so far;
    otherwise return False.
    Empty or 1-element lists → False.
 
-2) swap_ends(L, k)
-   Return a NEW list formed by swapping the first k elements with the last k
-   elements. Keep the order of elements inside each part the same.
-   Also return the number of swaps performed as a tuple (new_list, num_swaps).
-   Do NOT change the original list.
-   If k <= 0, the list is empty, or k is larger than half of the list length,
-   return (a copy of L, 0).
+2) 
 
 3) breakdown_time(seconds)
    Convert a non-negative integer number of seconds into as few units as
